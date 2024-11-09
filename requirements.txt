@@ -1,0 +1,6 @@
+streamlit
+ezdxf
+opencv-python
+pytesseract
+Pillow
+pyngrok
